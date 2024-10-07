@@ -14,7 +14,7 @@ een vooraf gegenereerde sleutel.
 
 ## 3. Installatiehandleiding
 1. Voorbereidingen: zorg dat python3 geïnstalleerd is op uw apparaat 
-2. Clone de repository en open de terminal (CTRL + `)
+2. Clone de repository en open de terminal ( CTRL + ` )
 3. Installeer de benodigde Python library met "pip install -r requirements.txt"
 4. Ga naar de app folder met "cd app"
 5. Start de app d.m.v. "python basic_terminal_encrypter.py"
