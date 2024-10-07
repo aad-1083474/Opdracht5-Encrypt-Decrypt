@@ -10,4 +10,4 @@ Dit zijn de auteur gegevens
 
 ## 4. Bronvermelding (APA7)
 Cryptography.io (2013-2014) [Symmetrische encryptie](https://cryptography.io/en/latest/hazmat/primitives/symmetric-encryption/) Symmetric encryption <br>
-Github - Python Security (2021) [Asymmetrische encryptie](https://elc.github.io/python-security/chapters/07_Asymmetric_Encryption.html#:~:text=Asymmetric%20encryption%20does%20not%20have,other%20should%20be%20kept%20secret.) Asymmetric encryption
+Github - Python Security (2021) [Asymmetrische encryptie](https://elc.github.io/python-security/chapters/07_Asymmetric_Encryption.html) Asymmetric encryption
