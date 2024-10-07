@@ -6,7 +6,7 @@ Dit zijn de auteur gegevens
 |--|--|
 |Adriaan Potters - 1083474|[aad-1083474](https://github.com/aad-1083474)|
 
-## Korte documentatie
+## 2. Korte documentatie
 Voor deze opdracht heb ik gebruik gemaakt van de Cryptography library en hiervan de
 module Fernet. Cryptography biedt meerdere functionaliteiten aan zoals symmetrische-,
 asymmetrische encryptie, hashing, etc. Over de module gesproken; Fernet is een symmetrische encryptie module die gegevens kan versleutelen en ontsleutelen d.m.v.
